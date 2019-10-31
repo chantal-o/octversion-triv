@@ -1,0 +1,23 @@
+.lead {
+    
+padding-bottom: 5rem;
+text-align: center;
+  
+
+}
+.display-4 {text-align: center;
+    color: rgb(51, 127, 242);
+
+}
+
+.choice {
+        border: 1px solid black;
+        padding: 10px;
+        border-radius: 4px;
+       
+        line-break: normal;
+    }
+
+    
+#time {text-emphasis-style: bold;
+color: red;}
